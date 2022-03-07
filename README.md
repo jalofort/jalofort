@@ -1,4 +1,4 @@
-## It's my pleasure that you are here 😍
+## It's my pleasure, you are here 😍
 - 👋 Hi, I’m Mahmoud Saad.
 - 👀 I’m interested in programming and  information technology.
 - 🌱 This year, I want to learn NodeJS and MongoDB.
