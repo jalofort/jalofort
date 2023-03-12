@@ -1,7 +1,6 @@
 ## It's my pleasure, you are here 😍
 - 👋 Hi, I’m Mahmoud Saad.
-- 👀 I’m interested in programming and  information technology.
-- 🌱 This year, I want to learn NodeJS and MongoDB.
+- 👀 I’m interested in programming and information technology.
 - 📫 Reach me at me@mahmoudsaad.net
 
 <!---
